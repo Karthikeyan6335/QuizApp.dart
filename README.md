@@ -1,16 +1,14 @@
-# flutter_Quizapplication
+# Quiz App
 
-A new Flutter project.
+A **Quiz** app built using Flutter. This app tests users' knowledge on a variety of topics with a series of multiple-choice questions.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Multiple categories of questions (Science, History, Geography, etc.).
+- Randomized questions in each quiz session.
+- User score tracking.
+- Clean, user-friendly interface.
+- Optimized for both Android and iOS.
 
-A few resources to get you started if this is your first Flutter project:
-
-- https://quizapp-6335.web.app
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Try
+-https://quizapp-6335.web.app
