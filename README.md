@@ -1,4 +1,4 @@
-# flutter_chatapplication
+# flutter_Quizapplication
 
 A new Flutter project.
 
